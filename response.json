@@ -1,0 +1,27 @@
+{"Entities": [
+        {"Score": 0.9998617768287659, "Type": "DATE_TIME", "BeginOffset": 33, "EndOffset": 45
+        },
+        {"Score": 0.9894557595252991, "Type": "NAME", "BeginOffset": 97, "EndOffset": 103
+        },
+        {"Score": 0.999476432800293, "Type": "DATE_TIME", "BeginOffset": 122, "EndOffset": 134
+        },
+        {"Score": 0.998137354850769, "Type": "ADDRESS", "BeginOffset": 135, "EndOffset": 156
+        },
+        {"Score": 0.9999165534973145, "Type": "PHONE", "BeginOffset": 164, "EndOffset": 178
+        },
+        {"Score": 0.9998140931129456, "Type": "NAME", "BeginOffset": 188, "EndOffset": 195
+        },
+        {"Score": 0.8498421907424927, "Type": "ADDRESS", "BeginOffset": 196, "EndOffset": 236
+        },
+        {"Score": 0.9981164932250977, "Type": "EMAIL", "BeginOffset": 237, "EndOffset": 256
+        },
+        {"Score": 0.9999027848243713, "Type": "PHONE", "BeginOffset": 672, "EndOffset": 686
+        },
+        {"Score": 0.9639142155647278, "Type": "EMAIL", "BeginOffset": 694, "EndOffset": 701
+        },
+        {"Score": 0.9995414018630981, "Type": "EMAIL", "BeginOffset": 702, "EndOffset": 721
+        }
+    ], "ResponseMetadata": {"RequestId": "7511f8e7-abda-46a1-bf84-1ee729dbf398", "HTTPStatusCode": 200, "HTTPHeaders": {"x-amzn-requestid": "7511f8e7-abda-46a1-bf84-1ee729dbf398", "content-type": "application/x-amz-json-1.1", "content-length": "877"
+        }, "RetryAttempts": 0
+    }
+}
