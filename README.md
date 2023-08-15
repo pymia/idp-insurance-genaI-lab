@@ -1,18 +1,5 @@
 # Intelligent Document Processing(IDP) with Generative AI models
 
-## Set up instructions for people helping test the notebooks
-
-1. Create a SageMaker domain if you don’t already have one
-
-2. Create a user profile -> Make sure you add Comprehend (detect_pii_entities) + Textract (detect_document_text) policies to the IAM role
-
-3. Launch a SageMaker Studio session + upload the folder
-
-4. Use default settings when opening the notebook. 
-
-5. Keep the MODEL_CONFIG cell as default, Isengard default account limits will prevent you from launching the other two instance types
-
-
 
 ## Lab1
 
